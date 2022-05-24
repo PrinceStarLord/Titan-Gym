@@ -1,7 +1,6 @@
-# Titan-Gym
-Gym Management System
 
-## Titan Gym 
+
+# Titan Gym 
  ![Sample Portfolio](https://github.com/Rocktim53/Titan-Gym/blob/master/screenshot/logo.png)
 
  # PROJECT DESCRIPTION
