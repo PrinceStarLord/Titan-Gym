@@ -4,13 +4,13 @@
  ![Sample Portfolio](https://github.com/Rocktim53/Titan-Gym/blob/master/screenshot/logo.png)
 
  # PROJECT DESCRIPTION
- # ===================
- GYM Management System is the process whereby records of members are directly stored and can be accessed  by the admin interactively in real-time without an intermediary service.
+
+GYM Management System is the process whereby records of members are directly stored and can be accessed  by the admin interactively in real-time without an intermediary service.
 Gym Management System is the process of storing members details including health status, payment records, exercise routines etc who have taken admission to the gym. Since the emergence of the World Wide Web, owners have sought to stored their user details in a digital system for easy access and find out every detail when needed. 
 
 
- # Features
- # ========
+# Features
+
 •	Provide a web admin interface to add, view, delete records of all the customers. 
 •	Provide an admin interface to view the total members of the gym. 
 •	Provide an admin interface to change details of all the members when required. 
