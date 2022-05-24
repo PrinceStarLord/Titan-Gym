@@ -18,7 +18,7 @@ Gym Management System is the process of storing members details including health
 
 
 
-# ScreenShot
+# ScreenShots
 
 
 
