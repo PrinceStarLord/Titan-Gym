@@ -23,7 +23,7 @@ Gym Management System is the process of storing members details including health
 
 
 
-## LogIn
+## Login
 The 'Login' activity is added in order to verify the credentials of an authorized user. The user needs to enter proper
 credentials to access the rest of the functionalities.
 
